@@ -6,4 +6,6 @@ class Calculator {
   int addOne(int value) => value + 1;
 
   int minusOne(int value) => value - 1;
+
+  int multiTwo(int value) => value * 2;
 }
